@@ -21,7 +21,7 @@ free -g
 nproc
 
 
-ps -ef #gives you all processors list
+ps -ef #gives you all processors list which are running
 
 ps -ef | grep "amazon"   # gives you amazon processors list
 
